@@ -1,2 +1,2 @@
-# dotfiles
-Personal configuration files to setup things like terminals, tools, etc
+# Dotfiles
+Personal configuration files to set up things like terminals, tools, etc. Inspired by [ChristianLempa](https://github.com/ChristianLempa)'s wonderful repository.
